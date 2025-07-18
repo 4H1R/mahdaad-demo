@@ -1,5 +1,7 @@
-<script setup lang="ts"></script>
+<script setup lang="ts">
+import OneView from './components/OneView.vue'
+</script>
 
 <template>
-  <p>Hello Vue</p>
+  <OneView />
 </template>
